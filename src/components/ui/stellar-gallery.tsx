@@ -61,6 +61,8 @@ function CardProvider({ children }: { children: React.ReactNode }) {
     { id: "13", imageUrl: "/images/photo13.png", alt: "Photo 13", title: "" },
     { id: "14", imageUrl: "/images/photo14.png", alt: "Photo 14", title: "" },
     { id: "15", imageUrl: "/images/photo15.png", alt: "Photo 15", title: "" },
+    { id: "16", imageUrl: "/images/photo16.png", alt: "Photo 16", title: "" },
+    { id: "17", imageUrl: "/images/photo17.png", alt: "Photo 17", title: "" },
   ]
 
   return (

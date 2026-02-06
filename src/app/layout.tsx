@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Apple Hello Effect Demo",
-  description: "A beautiful animated hello effect",
+  title: "Sofia, Will You Be My Valentine?",
+  description: "A special Valentine's Day question for Sofia",
 };
 
 export default function RootLayout({
